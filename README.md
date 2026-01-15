@@ -29,21 +29,6 @@ I enjoy solving problems and approaching them from multiple perspectives to buil
 </div>
 ---
 
-### 🔭 Currently working on
-- Improving my backend skills with Django and REST APIs.
-- Exploring new frontend frameworks and best UI practices.
-
-### 🌱 Currently learning
-- Advanced cybersecurity concepts.
-- Container orchestration with Kubernetes.
-
 ### 👯 Looking to collaborate on
 - Open source projects related to web security.
 - Educational content for programming beginners.
-
-### 💬 Ask me about
-- Agile methodologies.
-- Competitive programming.
-
-### ⚡ Fun fact
-I love solving puzzles and playing chess in my free time.
